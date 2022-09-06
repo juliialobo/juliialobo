@@ -1,6 +1,7 @@
-- ola, meu nome è julia!
-- eu estou aprendendo atualmente a programar jogos no scratch
-- voces podem entrar em contato comigo atraves do lobo.julia@escola.pr.gov.br
-
-
-
+# PensamentoComp
+## Atividades de HTML e CSS
+### Disciplina do Novo ensino médio, voltada ao desenvolvimento do racíocinio logíco.
+### Professora:Everlea Rossi Cremonez.
+### Turma: 1 A.
+### Aluno: Julia Rodrigues Lobo
+### Objetivo: Criar repositórios com arquivos em HTML e CSS.
